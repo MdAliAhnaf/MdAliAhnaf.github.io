@@ -37,7 +37,7 @@ export const Skills = [
 	{
 		id: 8,
 		name: 'JavaScript',
-		logo: '/assets/images/skills/JavaScript.png',
+		logo: '/assets/images/skills/javacript.png',
 	},
 	{
 		id: 9,
@@ -47,7 +47,7 @@ export const Skills = [
 	{
 		id: 10,
 		name: 'MySql',
-		logo: '/assets/images/skills/MySql.png',
+		logo: '/assets/images/skills/MySQL.png',
 	},
 	{
 		id: 11,
