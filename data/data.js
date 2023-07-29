@@ -13,7 +13,7 @@ export const Companies = [
 	{
 		id: 1,
 		institution: 'Looking for Internships',
-		logo: '/assets/images/companies/intern.jpg',
+		logo: '/assets/images/companies/intern.png',
 		degree: 'Junior Software Engineer - Intern',
 		startDate: 'Aug 2023',
 		endDate: 'Nov 2023',

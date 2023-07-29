@@ -73,10 +73,10 @@ Meta.defaultProps = {
 		'ahnaf, ahnaf aiub, Md. Ali Ahnaf, Ahnaf website, Ahnaf bd, Ahnaf portfolio',
 	description:
 		'Md. Ali Ahnaf is a Computer Vision Engineer & Back-End web developer based in Dhaka, Bangladesh',
-	image: 'https://shafin.live/assets/images/icons/icon-565x565.png',
+	image: 'https://mdaliahnaf.github.io/assets/images/icons/icon-565x565.png/assets/images/icons/icon-565x565.png',
 	twitterHandle: '@twilightggwp',
-	siteUrl: 'https://shafin.live/',
+	siteUrl: 'https://mdaliahnaf.github.io/',
 	name: 'Md. Ali Ahnaf',
-	googleVerification: 'uomAFBUP56GraXFbmGjgWuKXOQUGdMpUqPDt3YreMYE',
+	// googleVerification: 'uomAFBUP56GraXFbmGjgWuKXOQUGdMpUqPDt3YreMYE',
 };
 export default Meta;
