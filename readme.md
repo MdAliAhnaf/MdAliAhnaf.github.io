@@ -31,13 +31,13 @@ A personal portfolio website to show skills, experiences, and projects
 1. Clone the repository
 
 ```bash
-https://github.com/shahriarshafin/myportfolio.git
+https://mdaliahnaf.github.io.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd myportfolio
+cd MdAliAhnaf.github.io
 ```
 
 3. Install dependencies
