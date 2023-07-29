@@ -9,6 +9,8 @@
 <a href="https://github.com/mdaliahnaf/MdAliAhnaf.github.io/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="licence" />
 </a>
+<a href="https://github.com/MdAliAhnaf/MdAliAhnaf.github.io/actions/workflows/pages.yml" target="blank">
+<img src="https://github.com/MdAliAhnaf/MdAliAhnaf.github.io/actions/workflows/pages.yml/badge.svg" alt="licence" />
 <a href="https://github.com/mdaliahnaf/MdAliAhnaf.github.io/commits/main" target="blank">
 <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/mdaliahnaf/MdAliAhnaf.github.io/commits/main?style=flat-square"/>
 </a>
