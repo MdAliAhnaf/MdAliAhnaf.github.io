@@ -9,7 +9,7 @@
 <a href="https://github.com/mdaliahnaf/MdAliAhnaf.github.io/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/mdaliahnaf/myportfolio/commits/v2" target="blank">
+<a href="https://github.com/mdaliahnaf/MdAliAhnaf.github.io/commits/v2" target="blank">
 <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/mdaliahnaf/MdAliAhnaf.github.io/master/efc47576d96123509711d275c6fe613a3bfe4b94?style=flat-square"/>
 </a>
 <a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20portfolio!%20https://mdaliahnaf.github.io/,%20created%20by%20@twilightggwp">
