@@ -92,7 +92,7 @@ export const Skills = [
 	{
 		id: 19,
 		name: 'Bootstrap',
-		logo: '/assets/images/skills/Bootstrap.png',
+		logo: '/assets/images/skills/bootstrap.png',
 	},
 	{
 		id: 20,
