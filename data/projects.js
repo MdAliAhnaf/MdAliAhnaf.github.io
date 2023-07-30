@@ -9,7 +9,7 @@ export const ProjectList = [
 		title: 'Razer Store Bangladesh',
 		des: 'Developed a dynamic MVC pattern architecture website where Razer products (which are shipped from the US) will be delivered through a user-friendly, strong security, and reliable purchase system.',
 		tech: ['PHP', 'JS', 'AJAX', 'HTML5', 'CSS3', 'Bootstrap', 'JSON', 'MySQL'],
-		url: 'https://rtxserver.com/',
+		url: 'https://github.com/MdAliAhnaf/Razer-Store-Bangladesh/',
 		image: RazerStoreBD,
 	},
 	{
@@ -25,7 +25,7 @@ export const ProjectList = [
 		title: 'Face Mask Detection in Real-Time using transfer learning via Mobilenet_V2',
 		des: "🚀 Mobile Net V2 was trained using custom and Kaggle datasets of 9.5k human face pictures with properly, poorly, and incorrectly worn masks. The model scores 95–96 percent validation after haarcascade_frontalface_alt2.xml detects the frontal face area in real time.",
 		tech: ['Tensorflow', 'Keras', 'openCV-2', 'CNN', 'Transfer-learning'],
-		url: 'https://github.com/MdAliAhnaf/language_translate-detect_fastapi-docker',
+		url: 'https://github.com/MdAliAhnaf/frontal_3-category_face-mask_detection',
 		image: realtime_mask_detection,
 	},
 ];
