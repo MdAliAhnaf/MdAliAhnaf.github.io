@@ -15,7 +15,7 @@ const Meta = ({
 		useRouter().pathname.replaceAll('/', '').slice(1);
 	const pageTitle =
 		routerPath === ''
-			? 'Md. Ali Ahnaf | Back-End Developer'
+			? 'Md. Ali Ahnaf | Vision & Back-End Developer'
 			: routerPath + ' | Md. Ali Ahnaf';
 	return (
 		<Head>

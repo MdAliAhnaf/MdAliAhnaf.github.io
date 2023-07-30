@@ -5,7 +5,7 @@ const projects = () => {
 	return (
 		<section>
 			<Heading text={'Featured Projects'} />
-			<Description text='Discover a collection of projects highlighting my journey as a web developer' />
+			<Description text='Discover a collection of projects highlighting my journey as a web, web-api developer & vision engineer' />
 
 			<div className='space-y-10'>
 				{ProjectList.map((project, idx) => (
